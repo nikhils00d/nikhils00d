@@ -1,6 +1,6 @@
 # Hey, I'm Nikhil 👋
 
-### Developer • Photographer • Filmmaker • Community Builder
+### Developer • Photographer • Community Builder
 
 I'm a Computer Science student from India who enjoys building products, capturing stories, and creating experiences that people remember.
 
